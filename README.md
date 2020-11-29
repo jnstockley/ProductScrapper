@@ -3,6 +3,8 @@
 Simple Python Script to check if RTX 3070 is in stock at a few stores!
 Download Scrapper folder and run!
 
+Make sure you have Google Chrome installed and up to date!
+
 Must have python 3.9 installed and run pip install selenium
 Please allow insecure apps for your gmail account. Reccomend using burner gmail account!
 
